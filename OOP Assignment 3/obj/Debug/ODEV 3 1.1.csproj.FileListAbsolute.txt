@@ -1,0 +1,7 @@
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\obj\Debug\ODEV 3 1.1.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\obj\Debug\ODEV 3 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\bin\Debug\ODEV 3 1.1.exe.config
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\bin\Debug\ODEV 3 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\bin\Debug\ODEV 3 1.1.pdb
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\obj\Debug\ODEV 3 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\ODEV 3 1.1\ODEV 3 1.1\obj\Debug\ODEV 3 1.1.pdb
